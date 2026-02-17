@@ -1,0 +1,23 @@
+# OS / editor
+.DS_Store
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Local build artifacts
+*.log
+*.tmp
+
+# No raw vault/cas/ledger exports in this transport repo
+IngressArchive/
+payload/
+_vault/
+_cas/
+_ledger/
+_receipts/
+_meta/
+
+# No private zips accidentally committed
+*.zip
+*.pdf

@@ -1,0 +1,14 @@
+{
+  "release_id": "release_ike_palena_drop01_2026-02-16T19-15-53Z",
+  "bundle_sha256": "466c9d195d1788002add254295daac23e3323f7537df51758145e994ee25f5b2",
+  "vault_bundle_path": "/private/var/mobile/Library/Mobile Documents/iCloud~dk~simonbs~Scriptable/Documents/IngressArchive/_vault/PUBLIC/release_ike_palena_drop01_2026-02-16T19-15-53Z/466c9d195d1788002add254295daac23e3323f7537df51758145e994ee25f5b2/466c9d195d1788002add254295daac23e3323f7537df51758145e994ee25f5b2.zip",
+  "official_ledger_event": "/private/var/mobile/Library/Mobile Documents/iCloud~dk~simonbs~Scriptable/Documents/IngressArchive/_ledger/official/2026/02/16/2026-02-16T22:13:42.930Z_release_ike_palena_drop01_2026-02-16T19-15-53Z.approve.json",
+  "integrity_sweep": {
+    "swept_at": "2026-02-16T22:35:42.204Z",
+    "system": "integrity_sweep_v1_0",
+    "verified": 14,
+    "skipped": 0,
+    "mismatch": 0,
+    "bad": 0
+  }
+}

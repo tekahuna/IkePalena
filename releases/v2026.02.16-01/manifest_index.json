@@ -1,0 +1,16 @@
+{
+  "releases": [
+    {
+      "release_id": "release_ike_palena_drop01_2026-02-16T19-15-53Z",
+      "tag": "v2026.02.16-01",
+      "bundle_sha256": "466c9d195d1788002add254295daac23e3323f7537df51758145e994ee25f5b2",
+      "class": "PUBLIC",
+      "type": "publication_bundle",
+      "integrity_sweep_at_utc": "2026-02-16T22:35:42.204Z",
+      "verified": 14,
+      "skipped": 0,
+      "mismatch": 0,
+      "bad": 0
+    }
+  ]
+}

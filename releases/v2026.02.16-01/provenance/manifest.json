@@ -1,0 +1,76 @@
+{
+  "release_id": "release_ike_palena_drop01_2026-02-16T19-15-53Z",
+  "release_class": "PUBLIC",
+  "release_type": "publication_bundle",
+  "bundle_version": "PUB_BUNDLE_v1",
+  "built_at_utc": "2026-02-16T22:12:30.427Z",
+
+  "bundle_sha256": "466c9d195d1788002add254295daac23e3323f7537df51758145e994ee25f5b2",
+  "bundle_size_kb": 164,
+
+  "payload": [
+    {
+      "file_name": "1_Ike_Palena_Boundary_Precedes_Canon.pdf",
+      "sha256": "74d7130fe3fe046c1eba2effbfb76276fb1312e83d347c2dc6354c69b479a221",
+      "size_kb": 33,
+      "artifact_class": "PUBLIC",
+      "artifact_type": "paper"
+    },
+    {
+      "file_name": "2_Ike_Palena_Boundary_Fortification.pdf",
+      "sha256": "e08434b12c5f3c47d248660a5c06bd5aa09f382efcd1375c464ea1d644e9b449",
+      "size_kb": 36,
+      "artifact_class": "PUBLIC",
+      "artifact_type": "paper"
+    },
+    {
+      "file_name": "3_Ike_Palena_Care_And_Boundary.pdf",
+      "sha256": "3e5bbcf18358dcfa4f1380e992461fb1972786644b863d5178493164a0cd9f0a",
+      "size_kb": 33,
+      "artifact_class": "PUBLIC",
+      "artifact_type": "paper"
+    },
+    {
+      "file_name": "4_Ike_Palena_Emergence_From_Emergency.pdf",
+      "sha256": "caf25dd1ca4fa5333ee4b772b1125408686eccdd3f687651bc93f124e6bd6c8b",
+      "size_kb": 33,
+      "artifact_class": "PUBLIC",
+      "artifact_type": "paper"
+    },
+    {
+      "file_name": "5_Ike_Palena_The_Limits_Of_Knowing.pdf",
+      "sha256": "338c9570098a12b2727900d4c19d7601b2e41ccfd98ed728522e6f74992ab135",
+      "size_kb": 33,
+      "artifact_class": "PUBLIC",
+      "artifact_type": "paper"
+    },
+    {
+      "file_name": "6_Why_Quantum_Systems_Cant_Be_Optimized.pdf",
+      "sha256": "f8b9408963f6fbcc3ac3222f5a4ec9a98a7c20709323e31bede6756108d12dba",
+      "size_kb": 48,
+      "artifact_class": "PUBLIC",
+      "artifact_type": "paper"
+    }
+  ],
+
+  "provenance": {
+    "approved_vault_path": "/private/var/mobile/Library/Mobile Documents/iCloud~dk~simonbs~Scriptable/Documents/IngressArchive/_vault/PUBLIC/release_ike_palena_drop01_2026-02-16T19-15-53Z/466c9d195d1788002add254295daac23e3323f7537df51758145e994ee25f5b2/466c9d195d1788002add254295daac23e3323f7537df51758145e994ee25f5b2.zip",
+    "official_ledger_event": "/private/var/mobile/Library/Mobile Documents/iCloud~dk~simonbs~Scriptable/Documents/IngressArchive/_ledger/official/2026/02/16/2026-02-16T22:13:42.930Z_release_ike_palena_drop01_2026-02-16T19-15-53Z.approve.json",
+    "integrity_sweep": "./integrity_sweep.json"
+  },
+
+  "integrity": {
+    "fail_closed": true,
+    "reproducible_from_vault": true,
+    "transport_layer": "github_release_asset",
+    "verification_method": "INTEGRITY_SWEEP",
+    "verification_status": "OK",
+    "verification_swept_at": "2026-02-16T22:35:42.204Z",
+    "verification_summary": {
+      "verified": 14,
+      "skipped": 0,
+      "mismatch": 0,
+      "bad": 0
+    }
+  }
+}

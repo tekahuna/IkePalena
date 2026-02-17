@@ -1,0 +1,14 @@
+Release: Ike Palena — Drop 01
+
+Bundle SHA256:
+466c9d195d1788002add254295daac23e3323f7537df51758145e994ee25f5b2
+
+Includes five Ike Palena papers and one quantum systems paper applying boundary logic to system design.
+
+All payload file hashes and verification evidence are included in:
+releases/v2026.02.16-01/provenance/
+
+GitHub is transport only.
+Canonical integrity remains anchored in archived vault artifacts.
+
+— Jeffrey Kawika Patricio
