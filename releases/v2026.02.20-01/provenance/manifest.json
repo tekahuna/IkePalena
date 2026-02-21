@@ -1,0 +1,67 @@
+{
+  "release_id": "release_ike_palena_drop02_kernel+ai_2026-02-20T22-00-13Z",
+  "release_class": "PUBLIC",
+  "release_type": "publication_bundle",
+  "bundle_version": "PUB_BUNDLE_v1",
+  "built_at_utc": "2026-02-20T22:00:13Z",
+
+  "bundle_sha256": "7289d6dd0aa9ed95dde885835814bd5a50a1a4d202a231e5baee6e87d41774b0",
+  "bundle_size_kb": 52,
+
+  "payload": [
+    {
+      "file_name": "Ike_Palena_Formal_Kernel_v1_3.pdf",
+      "sha256": "a127e6314a014572e39a04b318aa6b7ad2b31117ee04bd63321dcfa7b251fa5c",
+      "size_kb": 43,
+      "artifact_class": "PUBLIC",
+      "artifact_type": "paper",
+      "vault_path": "/private/var/mobile/Library/Mobile Documents/iCloud~dk~simonbs~Scriptable/Documents/IngressArchive/_vault/PUBLIC/ike-palena-formal-kernel_v1_3_2026-02-20T21-50-02Z/a127e6314a014572e39a04b318aa6b7ad2b31117ee04bd63321dcfa7b251fa5c/a127e6314a014572e39a04b318aa6b7ad2b31117ee04bd63321dcfa7b251fa5c.pdf",
+      "official_ledger": "/private/var/mobile/Library/Mobile Documents/iCloud~dk~simonbs~Scriptable/Documents/IngressArchive/_ledger/official/2026/02/20/2026-02-20T21:55:57.883Z_ike-palena-formal-kernel_v1_3_2026-02-20T21-50-02Z.approve.json"
+    },
+    {
+      "file_name": "Authority_Is_Not_a_Function_of_Optimization_v1_3.pdf",
+      "sha256": "5116b5c9aabd1fc0f7471cb933fdeeccd629369e4ac836c43aa7a61572c83ccf",
+      "size_kb": 4,
+      "artifact_class": "PUBLIC",
+      "artifact_type": "paper",
+      "vault_path": "/private/var/mobile/Library/Mobile Documents/iCloud~dk~simonbs~Scriptable/Documents/IngressArchive/_vault/PUBLIC/authority-is-not-a-function-of-optimization_v1_3_2026-02-20T21-53-09Z/5116b5c9aabd1fc0f7471cb933fdeeccd629369e4ac836c43aa7a61572c83ccf/5116b5c9aabd1fc0f7471cb933fdeeccd629369e4ac836c43aa7a61572c83ccf.pdf",
+      "official_ledger": "/private/var/mobile/Library/Mobile Documents/iCloud~dk~simonbs~Scriptable/Documents/IngressArchive/_ledger/official/2026/02/20/2026-02-20T21:57:03.616Z_authority-is-not-a-function-of-optimization_v1_3_2026-02-20T21-53-09Z.approve.json"
+    }
+  ],
+
+  "provenance": {
+    "bundle_approval": {
+      "approved_at": "2026-02-21T00:03:54.657Z",
+      "vault_path": "/private/var/mobile/Library/Mobile Documents/iCloud~dk~simonbs~Scriptable/Documents/IngressArchive/_vault/PUBLIC/release_ike_palena_drop02_kernel+ai_2026-02-20T22-00-13Z/7289d6dd0aa9ed95dde885835814bd5a50a1a4d202a231e5baee6e87d41774b0/7289d6dd0aa9ed95dde885835814bd5a50a1a4d202a231e5baee6e87d41774b0.zip",
+      "official_ledger": "/private/var/mobile/Library/Mobile Documents/iCloud~dk~simonbs~Scriptable/Documents/IngressArchive/_ledger/official/2026/02/21/2026-02-21T00:03:54.657Z_release_ike_palena_drop02_kernel+ai_2026-02-20T22-00-13Z.approve.json"
+    },
+
+    "bundle_ingress": {
+      "rid": "80wkin44",
+      "ingested_at": "2026-02-21T00:03:02.550Z",
+      "cas_path": "/private/var/mobile/Library/Mobile Documents/iCloud~dk~simonbs~Scriptable/Documents/IngressArchive/_cas/sha256/72/89/7289d6dd0aa9ed95dde885835814bd5a50a1a4d202a231e5baee6e87d41774b0.zip",
+      "cas_size_bytes_est": 53248
+    },
+
+    "integrity_sweep": {
+      "swept_at": "2026-02-20T22:00:13.568Z",
+      "status": "OK",
+      "ledger": "/private/var/mobile/Library/Mobile Documents/iCloud~dk~simonbs~Scriptable/Documents/IngressArchive/_ledger/sweep/2026/02/20/2026-02-20T22:00:13.568Z_integrity.sweep.json"
+    },
+
+    "transport_layer": "github_release_asset",
+    "canonical_integrity": "IngressArchive vault + official ledgers (hash-anchored)"
+  },
+
+  "integrity": {
+    "hash_algo": "sha256",
+    "fail_closed": true,
+    "reproducible_from_vault": true,
+    "transport_is_non_authoritative": true
+  },
+
+  "license": {
+    "spdx": "CC-BY-ND-4.0",
+    "display": "CC BY-ND 4.0"
+  }
+}

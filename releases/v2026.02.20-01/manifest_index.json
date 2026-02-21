@@ -1,0 +1,13 @@
+{
+  "releases": [
+    {
+      "tag": "v2026.02.20-01",
+      "release_id": "release_ike_palena_drop02_kernel+ai_2026-02-20T22-00-13Z",
+      "class": "PUBLIC",
+      "bundle_sha256": "7289d6dd0aa9ed95dde885835814bd5a50a1a4d202a231e5baee6e87d41774b0",
+      "bundle_size_kb": 52,
+      "published_at_utc": "2026-02-21T00:03:02Z",
+      "license": "CC BY-ND 4.0"
+    }
+  ]
+}

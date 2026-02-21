@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Ike Palena (Public Releases)"
+message: "If you use this work, please cite it as below."
+type: software
+authors:
+  - family-names: "Patricio"
+    given-names: "Jeffrey Kawika"
+repository-code: "https://github.com/tekahuna/IkePalena"
+license: "CC-BY-ND-4.0"
+preferred-citation:
+  type: report
+  title: "Ike Palena Drop 02 — Kernel + AI"
+  authors:
+    - family-names: "Patricio"
+      given-names: "Jeffrey Kawika"
+  year: 2026
+  version: "v2026.02.20-01"
+  url: "https://github.com/tekahuna/IkePalena/releases/tag/v2026.02.20-01"
